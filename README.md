@@ -1,7 +1,6 @@
 # Note-Taking-Application
 
 A beautiful, full-featured authentication and note-taking application built with React, TypeScript, and Supabase.
-Demo -https://auth-notes-app-git-main-riya-742005s-projects.vercel.app/
 
 ## ✨ Features
 
